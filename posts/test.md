@@ -1,9 +1,9 @@
 ---
-path: "/posts/test"
-date: "2019-22-02"
-title: "Test post"
+path: /posts/test
+date: 2019-02-22
+title: Test post
 ---
 
 # Test
 
-Just to make sure It works correctly
+Just to make sure it works correctly
